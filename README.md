@@ -6,7 +6,7 @@
 
 <p align="center"><b>关于订阅</b></p>
 
-<p align="center">喜欢请点右上角 `star`。订阅的话，请 `watch` 按钮。</p>
+<p align="center">喜欢请点右上角 <code>star</code>。订阅的话，请 <code>watch</code> 按钮。</p>
 
 <p align="center"><b>转载注意事项</b></p>
 
